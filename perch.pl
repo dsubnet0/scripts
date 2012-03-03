@@ -1,6 +1,4 @@
-﻿perch.pl
-
-#!/fidessa/sybase/perl/bin64/perl
+﻿#!/usr/bin/perl
 
 use Data::Dumper;
 use strict;
